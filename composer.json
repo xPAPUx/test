@@ -14,5 +14,7 @@
             "email": "hemadel@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "vendor/package": "1.0"
+    }
 }
